@@ -3,7 +3,7 @@
 
 **Welcome to Yesh-Chat!** :partying_face:	<br>
 A messaging application developed using Android Studio, supported by a a Node.js [server-side](https://social-chat-app-21.onrender.com/).
-Get a seamless communication and fun chats with your friends and family and feel the joy of instant messaging exprience. .<br>
+Get a seamless communication and fun chats with your friends and family and feel the joy of instant messaging exprience. <br>
 This Android application serves as an extension of the [Yesh-Chat website](https://social-chat-app-23.onrender.com/), Keeping you connected on the move with your personal device, ensuring you're always in touch with your contacts and conversations :people_hugging:	
 
 ## Features
@@ -27,13 +27,14 @@ The Yesh-Chat Android Application offers the following features:
   
 ## Live Demo 📱
 Excited to try out Yesh-Chat right away? You can access our live demo APK package directly from the [Releases section](https://github.com/yeela8g/Yesh-Chat-Mobile-App/releases/tag/v1.0.0)!
+
 Click on the APK file from your phone and enable installation from 'Unknown Sources', then install and start connecting with others or exploring the app's features !
 
 <img src="https://github.com/yeela8g/Yesh-Chat-Mobile-App/assets/118124478/2fd94778-3df1-48ea-9784-f97d4bab91da" alt="Your Image" width="200" style="float:left; margin-right:10px;">
 
 
 
-## Getting Started
+## How to run
 
 To set up and run Yesh-Chat Android Application, follow these steps:
 
