@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="loginRegTitleColor" format="color" />
+    <attr name="loginRegBackgroundColor" format="color" />
+    <attr name="buttonTextColor" format="color" />
+    <attr name="deleteButtonColor" format="color" />
+    <attr name="etColor" format="color" />
+    <attr name="etHintColor" format="color" />
+    <attr name="textColor" format="color" />
+    <attr name="backgroundPic" format="reference" />
+    <attr name="sendButtonColor" format="color" />
+    <attr name="sendButtonTextColor" format="color" />
+    <attr name="contactBGColor" format="color" />
+    <attr name="contactBGContactListColor" format="color" />
+</resources>

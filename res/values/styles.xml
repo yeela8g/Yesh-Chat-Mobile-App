@@ -1,0 +1,20 @@
+<!-- styles.xml (res/values/styles.xml) -->
+<resources>
+    <!-- Light Theme -->
+    <style name="LightTheme1" parent="Theme.AppCompat.Light">
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:textColorSecondary">@color/my_grey</item>
+        <item name="android:colorBackground">@color/my_light_pink</item>
+        <item name="android:colorControlNormal">@color/my_purple</item>
+    </style>
+
+    <!-- Dark Theme -->
+    <style name="DarkTheme1" parent="Theme.AppCompat">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/my_darkgrey</item>
+        <item name="android:colorBackground">@color/my_pink</item>
+        <item name="android:colorControlNormal">@color/my_yellow</item>
+    </style>
+</resources>
