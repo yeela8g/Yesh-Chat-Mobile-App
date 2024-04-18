@@ -26,7 +26,7 @@ The Yesh-Chat Android Application offers the following features:
 
   
 ## Live Demo 📱
-Excited to try out Yesh-Chat right away? You can access our live demo APK package directly from the [Releases section](https://github.com/yeela8g/Yesh-Chat-Mobile-App/releases/tag/v1.0.0)!
+Excited to try out Yesh-Chat right away? You can access the live demo APK package directly from the [Releases section](https://github.com/yeela8g/Yesh-Chat-Mobile-App/releases/tag/v1.0.0)!
 
 Click on the APK file from your phone and enable installation from 'Unknown Sources', then install and start connecting with others or exploring the app's features !
 
